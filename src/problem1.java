@@ -5,7 +5,7 @@ import java.util.*;
 public class problem1 {
     public static void main(String[] args) throws IOException {
 
-        final int MAX = (10^15)-1;
+        final int MAX = 1000;
         final String[] ones = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"},
                  teens = {"", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen",
                          "seventeen", "eighteen", "nineteen"},
